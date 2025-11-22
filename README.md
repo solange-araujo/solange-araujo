@@ -1,24 +1,45 @@
 # Hi, I'm Solange 👋
 
-## Process Data Analyst | P.Eng. (OIQ)
+## Senior Process Data Analyst | P.Eng. (OIQ)
 
-I specialize in manufacturing data analytics and process optimization for regulated industries (pharmaceutical, biotech, food manufacturing).
+I specialize in applying advanced analytics, machine learning, and statistical modeling to optimize manufacturing processes in regulated industries (pharmaceutical, biotech, food manufacturing).
 
-### 🔧 Technical Skills
-- **Languages:** Python, R, SQL, MATLAB
-- **Data Analysis:** Pandas, NumPy, Scikit-learn, Statistical Modeling
-- **Visualization:** Matplotlib, ggplot2, Plotly
-- **Methodologies:** Design of Experiments (DOE), Machine Learning, Process Optimization
+### 🔬 What I Do
+- **Process Optimization:** Design of Experiments (DOE), statistical modeling, ANOVA
+- **Predictive Analytics:** Machine learning for quality prediction and process control
+- **Computer Vision:** Automated quality inspection using image segmentation
+- **Risk Assessment:** Occupational health modeling and dispersion analysis
 
-### 🎓 Background
-- M.Sc. Chemical Engineering (GPA 4.0/4.0)
+### 🛠️ Technical Skills
+**Languages & Tools:**  
+Python • R • MATLAB • SQL • Git
+
+**Python Stack:**  
+Pandas • NumPy • Scikit-learn • Matplotlib • Seaborn • OpenCV
+
+**R Stack:**  
+ggplot2 • dplyr • Statistical modeling packages
+
+**Specialized:**  
+Design of Experiments (DOE) • ANOVA • Process Simulation (CHEMCAD) • GMP Compliance
+
+### 📊 Experience Highlights
+- 15+ years in R&D and process analytics
+- Author of 87+ technical reports
 - P.Eng. (Ordre des ingénieurs du Québec)
 - GMP Certified
-- 12+ years experience in R&D and manufacturing
+- Published researcher with USPTO patent
 
-### 📫 Connect
-- LinkedIn: [linkedin.com/in/solange-araujo]
-- Email: solange.araujo@gmail.com
+### 🎯 Current Focus
+Building portfolio projects demonstrating:
+- Machine learning applications for manufacturing quality control
+- Statistical optimization using DOE methodologies  
+- Computer vision for automated process monitoring
+
+### 📫 Connect With Me
+- **LinkedIn:** [linkedin.com/in/solange-araujo](https://linkedin.com/in/solange-araujo-0400798b/)
+- **Email:** solange.araujo@gmail.com
 
 ---
-💡 Open to opportunities in process data analytics, manufacturing intelligence, and quality analytics roles.
+
+💼 Open to opportunities in Manufacturing Intelligence, Process Data Science, and Quality Analytics roles in pharmaceutical, biotech, and advanced manufacturing sectors.
