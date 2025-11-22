@@ -21,14 +21,14 @@ Pandas • NumPy • Scikit-learn • Matplotlib • Seaborn • OpenCV
 ggplot2 • dplyr • Statistical modeling packages
 
 **Specialized:**  
-Design of Experiments (DOE) • ANOVA • Process Simulation (CHEMCAD) • GMP Compliance
+Design of Experiments (DOE) • ANOVA • GMP Compliance
 
 ### 📊 Experience Highlights
 - 15+ years in R&D and process analytics
 - Author of 87+ technical reports
 - P.Eng. (Ordre des ingénieurs du Québec)
 - GMP Certified
-- Published researcher with USPTO patent
+- Published researcher with USPTO patent application
 
 ### 🎯 Current Focus
 Building portfolio projects demonstrating:
