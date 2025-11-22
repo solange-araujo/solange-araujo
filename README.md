@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Solange 👋
 
-<!--
-**solange-araujo/solange-araujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Process Data Analyst | P.Eng. (OIQ)
 
-Here are some ideas to get you started:
+I specialize in manufacturing data analytics and process optimization for regulated industries (pharmaceutical, biotech, food manufacturing).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Technical Skills
+- **Languages:** Python, R, SQL, MATLAB
+- **Data Analysis:** Pandas, NumPy, Scikit-learn, Statistical Modeling
+- **Visualization:** Matplotlib, ggplot2, Plotly
+- **Methodologies:** Design of Experiments (DOE), Machine Learning, Process Optimization
+
+### 🎓 Background
+- M.Sc. Chemical Engineering (GPA 4.0/4.0)
+- P.Eng. (Ordre des ingénieurs du Québec)
+- GMP Certified
+- 12+ years experience in R&D and manufacturing
+
+### 📫 Connect
+- LinkedIn: [linkedin.com/in/solange-araujo]
+- Email: solange.araujo@gmail.com
+
+---
+💡 Open to opportunities in process data analytics, manufacturing intelligence, and quality analytics roles.
